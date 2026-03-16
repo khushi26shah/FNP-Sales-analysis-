@@ -1,8 +1,7 @@
 # FNP-Sales-analysis-
 # Sales Analysis Dashboard (Excel)
 
-![FNP-Sales-analysis-](FNP sales dashboard (Excel).png)
-
+![FNP Sales Dashboard](FNP%20sales%20dashboard%20(Excel).png)
 ## Project Overview
 This project is an interactive Sales Analysis Dashboard built using Microsoft Excel. The dashboard helps analyze sales performance across different occasions, product categories, cities, and time periods. It provides insights into revenue trends and customer ordering behavior through visual charts and KPIs.
 
