@@ -42,8 +42,6 @@ This project was created for learning and practice purposes.
 The dataset was taken from Kaggle and guidance was taken from YouTube tutorials.  
 Some customization such as layout, theme, and formatting was modified while building the dashboard.
 
-## Files in Repository
-https://github.com/khushi26shah/FNP-Sales-analysis-/blob/main/FNP%20sales%20dashboard%20(Excel).png
 
 ## Purpose of the Project
 The main objective of this project is to practice data analysis and dashboard creation using Excel and to showcase the project as part of a data analytics portfolio.
